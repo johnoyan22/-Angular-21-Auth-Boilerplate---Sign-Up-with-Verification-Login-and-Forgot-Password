@@ -1,4 +1,4 @@
 export const environment = {
-    production: false,
-    apiUrl: 'https://localhost:4000'
+    production: true,
+    apiUrl: 'https://building-a-node-js-typescript-mysql-x0ir.onrender.com'
 };
